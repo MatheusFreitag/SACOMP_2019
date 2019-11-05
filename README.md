@@ -1,4 +1,4 @@
-# 🤓 Minicurso de NLP e Storrytelling  - SACOMP 2019
+# 🤓 Minicurso de NLP e Storytelling  - SACOMP 2019
 
 
 ## Sobre:
