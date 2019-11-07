@@ -2,8 +2,10 @@
 
 
 ## Sobre:
-Durante Semana Acadêmica da Computação da Universidade Federal de Pelotas (SACOMP), em sua edição de 2019, fui convidado a ministrar 
-um curso sobre NLP e Storytelling. Neste repositório se encontram os materiais utilizados nas aulas e que podem servir
+Durante Semana Acadêmica da Computação da Universidade Federal de Pelotas (SACOMP), em sua edição de 2019, fui convidado para representar a [Indeorum](https://www.indeorum.com/) e ministrar 
+um minicurso sobre NLP e Storytelling. 
+
+Neste repositório se encontram os materiais utilizados nas aulas e que podem servir
 de consultas futuras.
 
 ## Escalabilidade:
